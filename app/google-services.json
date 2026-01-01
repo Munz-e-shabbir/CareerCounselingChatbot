@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129091386680",
+    "project_id": "careercounselingchatbot",
+    "storage_bucket": "careercounselingchatbot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129091386680:android:0be71a9b9ad5b305bf55cd",
+        "android_client_info": {
+          "package_name": "com.example.careercounselingchatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvaHhDD0Fy_XX2ikSWAYVIrvPtMdl2j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
